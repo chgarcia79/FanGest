@@ -62,3 +62,5 @@ El usuario planteó la siguiente limitación crítica presente en herramientas c
 - **Lanzador por Lotes**: [Duplicar_Conversacion_FanGest.bat](file:///T:/DESARROLLO/GCLOUD/PROYECTOS/Scripts/Duplicar_Conversacion_FanGest.bat)
 - **Acceso en Repositorio**: [Duplicar_Conversacion_FanGest.bat](file:///T:/DESARROLLO/GCLOUD/PROYECTOS/FanGest/Scripts/Utils/Duplicar_Conversacion_FanGest.bat)
 - **Mecanismo**: Clona de forma autónoma la base de datos SQLite, metadatos Protobuf (`trajectory_meta`, `trajectory_metadata_blob`, `agyhub_summaries_proto.pb`) y artefactos de disco (`brain/`), asignándole un nuevo identificador de trayectoria y conversacional vinculado al workspace `file:///t:/DESARROLLO/GCLOUD/PROYECTOS/FanGest`, preservando íntegramente la conversación original vinculada a Optimizaciones NVIDIA (`file:///k:/LaterncyTestNVIDIA`).
+- **ID de Conversación Duplicada en FanGest**: [`6266f51f-f921-4db8-aa53-6a406ee6c271`](conversation://6266f51f-f921-4db8-aa53-6a406ee6c271)
+
