@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/MM/YYYY-MM-DD",
+  "folder": "Docs/Diario",
+  "template": "Docs/Plantillas/Plantilla_Diario.md"
+}

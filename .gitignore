@@ -1,0 +1,18 @@
+# Ignorados por defecto del Golden Template
+/Logs/*
+!/Logs/.gitkeep
+/Temporales/*
+!/Temporales/.gitkeep
+/Vault/*
+!/Vault/.gitkeep
+/Conversaciones/*
+!/Conversaciones/.gitkeep
+!/Conversaciones/*.md
+
+# Exclusiones tipicas
+node_modules/
+bin/
+obj/
+*.env
+*.log
+.DS_Store

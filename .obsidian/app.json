@@ -1,0 +1,16 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "bin/",
+    "obj/",
+    ".git/",
+    ".vscode/",
+    ".vs/",
+    ".idea/",
+    "packages/",
+    "dist/",
+    "out/",
+    ".next/",
+    "build/"
+  ]
+}
