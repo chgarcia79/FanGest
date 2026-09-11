@@ -54,3 +54,11 @@ El usuario planteó la siguiente limitación crítica presente en herramientas c
   - [[arq_fangest_zero_latency]]
   - [[int_superio_nuvoton_nct6687dr]]
   - [[patron_systray_hardware_persistence]]
+
+---
+
+## 4. Duplicación Autónoma de Conversación
+- **Script de Duplicación**: [duplicar_conversacion_fangest.cjs](file:///T:/DESARROLLO/GCLOUD/PROYECTOS/Scripts/duplicar_conversacion_fangest.cjs)
+- **Lanzador por Lotes**: [Duplicar_Conversacion_FanGest.bat](file:///T:/DESARROLLO/GCLOUD/PROYECTOS/Scripts/Duplicar_Conversacion_FanGest.bat)
+- **Acceso en Repositorio**: [Duplicar_Conversacion_FanGest.bat](file:///T:/DESARROLLO/GCLOUD/PROYECTOS/FanGest/Scripts/Utils/Duplicar_Conversacion_FanGest.bat)
+- **Mecanismo**: Clona de forma autónoma la base de datos SQLite, metadatos Protobuf (`trajectory_meta`, `trajectory_metadata_blob`, `agyhub_summaries_proto.pb`) y artefactos de disco (`brain/`), asignándole un nuevo identificador de trayectoria y conversacional vinculado al workspace `file:///t:/DESARROLLO/GCLOUD/PROYECTOS/FanGest`, preservando íntegramente la conversación original vinculada a Optimizaciones NVIDIA (`file:///k:/LaterncyTestNVIDIA`).
