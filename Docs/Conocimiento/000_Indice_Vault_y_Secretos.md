@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Mapa referencial de credenciales y secretos (sin exponer contraseÃ±as ni tokens).
+resumen: Mapa referencial de credenciales y secretos (sin exponer contraseÑas ni tokens).
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -14,7 +14,7 @@ tags:
 # 000 Indice Vault y Secretos
 
 > [!NOTE]
-> Mapa referencial de credenciales y secretos (sin exponer contraseÃ±as ni tokens).
+> Mapa referencial de credenciales y secretos (sin exponer contraseÑas ni tokens).
 
 ---
 

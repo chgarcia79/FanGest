@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Changelogs, Release Notes, historial cronolÃ³gico de versiones y migraciones.
+resumen: Changelogs, Release Notes, historial cronolÓgico de versiones y migraciones.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -13,7 +13,7 @@ tags:
 # 000 Indice Versionado y Releases
 
 > [!NOTE]
-> Changelogs, Release Notes, historial cronolÃ³gico de versiones y migraciones.
+> Changelogs, Release Notes, historial cronolÓgico de versiones y migraciones.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Arquitectura de componentes, interfaces de usuario, estilos CSS/Tailwind y lÃ³gicas visuales/UX.
+resumen: Arquitectura de componentes, interfaces de usuario, estilos CSS/Tailwind y lÓgicas visuales/UX.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -14,7 +14,7 @@ tags:
 # 000 Indice Frontend y UI
 
 > [!NOTE]
-> Arquitectura de componentes, interfaces de usuario, estilos CSS/Tailwind y lÃ³gicas visuales/UX.
+> Arquitectura de componentes, interfaces de usuario, estilos CSS/Tailwind y lÓgicas visuales/UX.
 
 ---
 

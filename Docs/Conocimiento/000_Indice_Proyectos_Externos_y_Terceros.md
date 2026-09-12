@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Sistemas de clientes, bases de cÃ³digo de terceros, ingenierÃ­a inversa o scraping.
+resumen: Sistemas de clientes, bases de cÓdigo de terceros, ingenierÍa inversa o scraping.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -13,7 +13,7 @@ tags:
 # 000 Indice Proyectos Externos y Terceros
 
 > [!NOTE]
-> Sistemas de clientes, bases de cÃ³digo de terceros, ingenierÃ­a inversa o scraping.
+> Sistemas de clientes, bases de cÓdigo de terceros, ingenierÍa inversa o scraping.
 
 ---
 

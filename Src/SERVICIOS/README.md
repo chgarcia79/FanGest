@@ -1,5 +1,5 @@
 # Src\SERVICIOS - Microservicios backend y workers
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Src\SERVICIOS |

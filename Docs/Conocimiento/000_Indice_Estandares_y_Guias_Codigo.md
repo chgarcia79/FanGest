@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Developer guidelines, convenciones de nomenclatura, patrones y buenas prÃ¡cticas.
+resumen: Developer guidelines, convenciones de nomenclatura, patrones y buenas prÁcticas.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -14,7 +14,7 @@ tags:
 # 000 Indice Estandares y Guias Codigo
 
 > [!NOTE]
-> Developer guidelines, convenciones de nomenclatura, patrones y buenas prÃ¡cticas.
+> Developer guidelines, convenciones de nomenclatura, patrones y buenas prÁcticas.
 
 ---
 

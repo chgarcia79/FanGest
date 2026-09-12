@@ -1,5 +1,5 @@
-# Src - CÃ³digo fuente organizado del proyecto
+# Src - CÓdigo fuente organizado del proyecto
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Src |

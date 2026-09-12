@@ -1,5 +1,5 @@
 # Conversaciones - Historial y backups de interacciones de IA
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Conversaciones |

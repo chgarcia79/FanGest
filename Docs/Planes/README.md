@@ -1,5 +1,5 @@
-# Docs\Planes - Planes de implementaciÃ³n estratÃ©gicos y estados
+# Docs\Planes - Planes de implementaciÓn estratÉgicos y estados
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Docs\Planes |

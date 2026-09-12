@@ -1,5 +1,5 @@
-# Resources - Recursos estÃ¡ticos, datos JSON, CSV e imÃ¡genes
+# Resources - Recursos estÁticos, datos JSON, CSV e imÁgenes
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Resources |

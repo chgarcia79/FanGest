@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Diccionario de acrÃ³nimos, tÃ©rminos de dominio y conceptos especÃ­ficos del negocio.
+resumen: Diccionario de acrÓnimos, tÉrminos de dominio y conceptos especÍficos del negocio.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -13,7 +13,7 @@ tags:
 # 000 Indice Glosario y Dominio
 
 > [!NOTE]
-> Diccionario de acrÃ³nimos, tÃ©rminos de dominio y conceptos especÃ­ficos del negocio.
+> Diccionario de acrÓnimos, tÉrminos de dominio y conceptos especÍficos del negocio.
 
 ---
 

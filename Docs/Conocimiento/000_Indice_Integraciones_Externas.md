@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: ComunicaciÃ³n con APIs y servicios de terceros (Vapi, Google Drive, NotebookLM, MCPs, etc.).
+resumen: ComunicaciÓn con APIs y servicios de terceros (Vapi, Google Drive, NotebookLM, MCPs, etc.).
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -13,7 +13,7 @@ tags:
 # 000 Indice Integraciones Externas
 
 > [!NOTE]
-> ComunicaciÃ³n con APIs y servicios de terceros (Vapi, Google Drive, NotebookLM, MCPs, etc.).
+> ComunicaciÓn con APIs y servicios de terceros (Vapi, Google Drive, NotebookLM, MCPs, etc.).
 
 ---
 

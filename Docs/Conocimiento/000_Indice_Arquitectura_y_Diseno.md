@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Estructura de clases, patrones de diseÃ±o de software, inyecciÃ³n de dependencias y decisiones de infraestructura.
+resumen: Estructura de clases, patrones de diseÑo de software, inyecciÓn de dependencias y decisiones de infraestructura.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -19,7 +19,7 @@ tags:
 # 000 Indice Arquitectura y Diseno
 
 > [!NOTE]
-> Estructura de clases, patrones de diseÃ±o de software, inyecciÃ³n de dependencias y decisiones de infraestructura.
+> Estructura de clases, patrones de diseÑo de software, inyecciÓn de dependencias y decisiones de infraestructura.
 
 ---
 

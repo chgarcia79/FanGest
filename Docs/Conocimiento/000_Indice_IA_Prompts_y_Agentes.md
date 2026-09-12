@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: IngenierÃ­a de prompts, System Prompts, RAG, herramientas (tools) LLM y reglas de agentes IA.
+resumen: IngenierÍa de prompts, System Prompts, RAG, herramientas (tools) LLM y reglas de agentes IA.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -14,7 +14,7 @@ tags:
 # 000 Indice IA Prompts y Agentes
 
 > [!NOTE]
-> IngenierÃ­a de prompts, System Prompts, RAG, herramientas (tools) LLM y reglas de agentes IA.
+> IngenierÍa de prompts, System Prompts, RAG, herramientas (tools) LLM y reglas de agentes IA.
 
 ---
 

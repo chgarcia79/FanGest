@@ -1,5 +1,5 @@
-# Docs - DocumentaciÃ³n integral del proyecto y conocimiento Obsidian
+# Docs - DocumentaciÓn integral del proyecto y conocimiento Obsidian
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Docs |

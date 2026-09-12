@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: EjecuciÃ³n de pruebas, payloads JSON de ejemplo (mocks), casos lÃ­mite y validaciones.
+resumen: EjecuciÓn de pruebas, payloads JSON de ejemplo (mocks), casos lÍmite y validaciones.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -14,7 +14,7 @@ tags:
 # 000 Indice QA y Testing
 
 > [!NOTE]
-> EjecuciÃ³n de pruebas, payloads JSON de ejemplo (mocks), casos lÃ­mite y validaciones.
+> EjecuciÓn de pruebas, payloads JSON de ejemplo (mocks), casos lÍmite y validaciones.
 
 ---
 

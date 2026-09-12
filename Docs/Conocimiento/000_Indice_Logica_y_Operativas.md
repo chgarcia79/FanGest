@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Flujos de trabajo funcionales, condiciones operativas, reglas de negocio y cÃ¡lculos matemÃ¡ticos.
+resumen: Flujos de trabajo funcionales, condiciones operativas, reglas de negocio y cÁlculos matemÁticos.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -13,7 +13,7 @@ tags:
 # 000 Indice Logica y Operativas
 
 > [!NOTE]
-> Flujos de trabajo funcionales, condiciones operativas, reglas de negocio y cÃ¡lculos matemÃ¡ticos.
+> Flujos de trabajo funcionales, condiciones operativas, reglas de negocio y cÁlculos matemÁticos.
 
 ---
 

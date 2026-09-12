@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: ConfiguraciÃ³n de Docker, Dokploy, CI/CD, Kestrel, Proxies Inversos y paso a producciÃ³n.
+resumen: ConfiguraciÓn de Docker, Dokploy, CI/CD, Kestrel, Proxies Inversos y paso a producciÓn.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -14,7 +14,7 @@ tags:
 # 000 Indice Publicacion y Despliegues
 
 > [!NOTE]
-> ConfiguraciÃ³n de Docker, Dokploy, CI/CD, Kestrel, Proxies Inversos y paso a producciÃ³n.
+> ConfiguraciÓn de Docker, Dokploy, CI/CD, Kestrel, Proxies Inversos y paso a producciÓn.
 
 ---
 

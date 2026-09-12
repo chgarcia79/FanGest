@@ -1,5 +1,5 @@
-# Tests - BaterÃ­a de pruebas automatizadas y manuales
+# Tests - BaterÍa de pruebas automatizadas y manuales
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Tests |

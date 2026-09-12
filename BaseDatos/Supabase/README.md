@@ -1,5 +1,5 @@
-# BaseDatos\Supabase - ConfiguraciÃ³n y funciones de Supabase
+# BaseDatos\Supabase - ConfiguraciÓn y funciones de Supabase
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de BaseDatos\Supabase |

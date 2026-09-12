@@ -1,5 +1,5 @@
 # Scripts - Herramientas, automatizaciones y migraciones
 
-| Fichero / Carpeta | DescripciÃ³n |
+| Fichero / Carpeta | DescripciÓn |
 |---|---|
 | . | Contenido organizativo de Scripts |

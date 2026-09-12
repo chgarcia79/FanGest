@@ -1,6 +1,6 @@
 ---
 tipo: moc
-resumen: Archivo de cÃ³digo o documentaciÃ³n obsoleta mantenida por valor histÃ³rico.
+resumen: Archivo de cÓdigo o documentaciÓn obsoleta mantenida por valor histÓrico.
 fecha_creacion: 2026-09-11
 fecha_modificacion: 2026-09-11
 related: []
@@ -13,7 +13,7 @@ tags:
 # 000 Indice Legacy y Archivo
 
 > [!NOTE]
-> Archivo de cÃ³digo o documentaciÃ³n obsoleta mantenida por valor histÃ³rico.
+> Archivo de cÓdigo o documentaciÓn obsoleta mantenida por valor histÓrico.
 
 ---
 
